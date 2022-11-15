@@ -2,7 +2,7 @@
 //distributed by Sungwoo Kim
 //       2020/12/28
 //revised by Buyoun Cho
-//       2022/10/06
+//       2022/11/15
 
 // [Commented @ 221006]
 // 이 코드는 DDV용으로 사용하지 않음.
